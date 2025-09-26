@@ -1,12 +1,42 @@
-# React + Vite
+# The Language Survival Game  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About the App  
+This is a small interactive **web app** built with **React** and bundled with **Vite**.  
+It’s a silly twist on the classic **Hangman game**, but instead of saving a stick figure, you’re fighting to keep **high-level programming languages** alive so you’re not left in a world with only Assembly language.
+You start with a squad of languages (JavaScript, Python, CSS, etc.) and have **8 attempts** to guess before losing them all and therefore losing the game.  
+Whenever you lose a language, you’ll get a cheeky message like:  
 
-Currently, two official plugins are available:
+> *"Gone but not forgotten, CSS."*  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The messages are randomized each time, so you’ll never know exactly how your fallen comrade will be memorialized.  
 
-## Expanding the ESLint configuration
+When all hope is lost and only **Assembly** remains then it is:  
+**Game Over.**  and you get a message 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> *"You lose! Better start learning Assembly 😭"*'
+
+---
+
+## Tech Stack  
+- **React**   
+- **Vite** 
+- **JavaScript (ES6+)** 
+- **CSS**  
+
+---
+
+## Getting Started  
+```bash
+# clone the repository
+git clone <repo-url>
+
+# move into the project folder
+cd project-folder
+
+# install dependencies
+npm install
+
+# run the app
+npm run dev
+
+
