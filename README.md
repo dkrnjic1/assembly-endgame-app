@@ -25,6 +25,22 @@ When all hope is lost and only **Assembly** remains then it is:
 
 ---
 
+## Screenshots
+
+### Starting Screen  
+![Starting Screen](screenshots/start.jpg)  
+
+### Losing a Language  
+![Lost Language Example](screenshots/mid.jpg)  
+
+### Game Over  
+![Game Over Screen](screenshots/loss.jpg)  
+
+### Game Over  
+![Win Screen](screenshots/win.jpg)  
+
+---
+
 ## Getting Started  
 ```bash
 # clone the repository
@@ -38,5 +54,4 @@ npm install
 
 # run the app
 npm run dev
-
 
