@@ -44,7 +44,7 @@ When all hope is lost and only **Assembly** remains then it is:
 ## Getting Started  
 ```bash
 # clone the repository
-git clone <repo-url>
+git clone https://github.com/dkrnjic1/assembly-endgame-app
 
 # move into the project folder
 cd project-folder
